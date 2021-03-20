@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @s1rGAY
+- 👀 I’m interested in C++ and AI
+- 🌱 I’m currently learning C++
+- 💞️ I want to collaborate in making games. 
+- 📫 rassafonovs@gmail.com
