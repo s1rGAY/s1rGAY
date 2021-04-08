@@ -1,5 +1,5 @@
-- 👋 Hi, I’m s1rGAY
-- 👀 I’m interested in C++ and AI
+- 👋 Hi, I’m Siarhei
+- 👀 I’m interested in C++,AI and python)))
 - 🌱 I’m currently learning C++
-- 💞️ I want to collaborate in making games. 
-- 📫 rassafonovs@gmail.com
+- 💞️ I want to collaborate in differents interesting projects;)
+- 📫 You can write to me at this address : rassafonovs@gmail.com
