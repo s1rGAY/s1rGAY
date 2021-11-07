@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siarhei
-- 👀 I’m interested in C++,AI and python)))
+- 👀 I’m interested in AI and python)))
 - 🌱 )
 - 💞️ I want to collaborate in differents interesting projects;)
 - 📫 You can write to me at this address : rassafonovs@gmail.com
